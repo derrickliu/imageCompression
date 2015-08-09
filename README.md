@@ -19,4 +19,6 @@ npm install image-commpression
 node app.js 需要压缩的图片目录 输出压缩结果的目录
 ```
 
+## 命令行需要带两个参数： 需要压缩的图片目录 、输出压缩结果的目录。
+
 
