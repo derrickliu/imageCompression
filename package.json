@@ -1,6 +1,6 @@
 {
 	"name": "image-compression",
-	"version": "0.0.2",
+	"version": "0.0.5",
 	"description": "compression local images",
 	"main": "app.js",
 	"keywords": [
